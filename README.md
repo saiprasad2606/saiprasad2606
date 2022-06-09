@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saiprasad2606
-- 👀 I’m interested in Machine Learning and Data Science...
+- 👀 I’m interested in Data Science...
 - 🌱 I’m currently learning Supply Chain Management 
 - 💞️ I’m looking to collaborate on Data science projects in Supply Chain Management 
 - 📫 How to reach me ...emailme @  saiprasad1573@gmail.com
